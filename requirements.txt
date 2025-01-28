@@ -1,8 +1,8 @@
-pygame-ce
-pygame_gui
-pyglm
-rtmidi2
-launchpad-py
-musicpy
-pyyaml
-webcolors
+pygame-ce==2.5.2
+pygame_gui==0.6.13
+PyGLM==2.7.3
+rtmidi2==1.4.0
+launchpad-py==0.9.1
+musicpy==6.93
+PyYAML==6.0.2
+webcolors==24.11.1
